@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Multiplayer_Puzzle.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{960F11BB-8564-4D35-887B-6D9E6EB0A859}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Multiplayer_Puzzle.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Multiplayer_PuzzleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F0D5ABE9-F8D7-4E25-9B88-0E064CAF37EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Multiplayer_Puzzle">
+      <UniqueIdentifier>{82D6E8D3-1F9E-4013-A097-9807056440F8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Multiplayer_Puzzle\Multiplayer_Puzzle.Build.cs">
+      <Filter>Source\Multiplayer_Puzzle</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Multiplayer_Puzzle\Multiplayer_Puzzle.cpp">
+      <Filter>Source\Multiplayer_Puzzle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Multiplayer_Puzzle\Multiplayer_Puzzle.h">
+      <Filter>Source\Multiplayer_Puzzle</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Multiplayer_Puzzle\Multiplayer_PuzzleCharacter.cpp">
+      <Filter>Source\Multiplayer_Puzzle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Multiplayer_Puzzle\Multiplayer_PuzzleCharacter.h">
+      <Filter>Source\Multiplayer_Puzzle</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Multiplayer_Puzzle\Multiplayer_PuzzleGameMode.cpp">
+      <Filter>Source\Multiplayer_Puzzle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Multiplayer_Puzzle\Multiplayer_PuzzleGameMode.h">
+      <Filter>Source\Multiplayer_Puzzle</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

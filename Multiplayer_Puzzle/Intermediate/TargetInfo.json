@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Multiplayer_Puzzle",
+			"Path": "D:\\Unreal Project\\Multiplayer_Puzzle\\Source\\Multiplayer_Puzzle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Multiplayer_PuzzleEditor",
+			"Path": "D:\\Unreal Project\\Multiplayer_Puzzle\\Source\\Multiplayer_PuzzleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

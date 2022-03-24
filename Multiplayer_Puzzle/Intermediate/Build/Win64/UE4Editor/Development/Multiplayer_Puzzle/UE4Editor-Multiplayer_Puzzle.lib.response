@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Multiplayer_Puzzle.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Project\Multiplayer_Puzzle\Intermediate\Build\Win64\Multiplayer_PuzzleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Project\Multiplayer_Puzzle\Intermediate\Build\Win64\UE4Editor\Development\Multiplayer_Puzzle\Multiplayer_Puzzle.cpp.obj"
+"D:\Unreal Project\Multiplayer_Puzzle\Intermediate\Build\Win64\UE4Editor\Development\Multiplayer_Puzzle\Multiplayer_PuzzleCharacter.cpp.obj"
+"D:\Unreal Project\Multiplayer_Puzzle\Intermediate\Build\Win64\UE4Editor\Development\Multiplayer_Puzzle\Multiplayer_PuzzleGameMode.cpp.obj"
+"D:\Unreal Project\Multiplayer_Puzzle\Intermediate\Build\Win64\UE4Editor\Development\Multiplayer_Puzzle\Multiplayer_Puzzle.init.gen.cpp.obj"
+"D:\Unreal Project\Multiplayer_Puzzle\Intermediate\Build\Win64\UE4Editor\Development\Multiplayer_Puzzle\Multiplayer_PuzzleCharacter.gen.cpp.obj"
+"D:\Unreal Project\Multiplayer_Puzzle\Intermediate\Build\Win64\UE4Editor\Development\Multiplayer_Puzzle\Multiplayer_PuzzleGameMode.gen.cpp.obj"
+"D:\Unreal Project\Multiplayer_Puzzle\Intermediate\Build\Win64\UE4Editor\Development\Multiplayer_Puzzle\Default.rc2.res"
+/OUT:"D:\Unreal Project\Multiplayer_Puzzle\Intermediate\Build\Win64\UE4Editor\Development\Multiplayer_Puzzle\UE4Editor-Multiplayer_Puzzle.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Project\\Multiplayer_Puzzle\\Source\\Multiplayer_Puzzle\\Multiplayer_Puzzle.Build.cs",
+		"D:\\Unreal Project\\Multiplayer_Puzzle\\Source\\Multiplayer_Puzzle.Target.cs",
+		"D:\\Unreal Project\\Multiplayer_Puzzle\\Source\\Multiplayer_PuzzleEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
